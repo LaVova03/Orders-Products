@@ -9,6 +9,8 @@
 
 .header__products ul > li {
   margin-right: 50px;
+  display: flex;
+  width: max-content;
 }
 
 .products__selector {
